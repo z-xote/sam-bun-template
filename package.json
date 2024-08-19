@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dist": "cd dev/build && bun run build",
+    "init": "cd dev/build && bun add"
+  }
+}
